@@ -2,7 +2,7 @@
 
 > A modern mobile food ordering experience built with clean UI and seamless navigation.
 
-![App Banner](./screenshots/splash.png)
+![App Banner](./Screenshots/splash.png)
 
 ---
 
@@ -11,22 +11,22 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./screenshots/splash.png" width="200" alt="Splash Screen"/>
+      <img src="./Screenshots/splash.png" width="200" alt="Splash Screen"/>
       <br/>
       <b>Splash Screen</b>
     </td>
     <td align="center">
-      <img src="./screenshots/menu.png" width="200" alt="Menu Screen"/>
+      <img src="./Screenshots/menu.png" width="200" alt="Menu Screen"/>
       <br/>
       <b>Menu</b>
     </td>
     <td align="center">
-      <img src="./screenshots/item-detail.png" width="200" alt="Item Detail"/>
+      <img src="./Screenshots/item-detail.png" width="200" alt="Item Detail"/>
       <br/>
       <b>Item Detail</b>
     </td>
     <td align="center">
-      <img src="./screenshots/cart.png" width="200" alt="Add to Cart"/>
+      <img src="./Screenshots/cart.png" width="200" alt="Add to Cart"/>
       <br/>
       <b>Add to Cart</b>
     </td>
@@ -110,8 +110,8 @@ npm start
 
 ## 🔗 Design File
 
-View the full Figma design here:
-[DELICIOUS — Figma Design](https://www.figma.com/design/A5uENsgAuhDf4faiDQLsE9/FOOD-ORDERING-APP)
+View the full design wireframes in the screenshots folder:
+[DELICIOUS — App Wireframes](./Screenshots/)
 
 ---
 
